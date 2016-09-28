@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">IntentsLab</string>
+    <string name="activity2">Activity2</string>
+    <string name="activity5">Activity5</string>
+    <string name="activity4">Activity4</string>
+    <string name="btnActivity2_1">Activity 2: One, 1, uno, un/une</string>
+    <string name="btnActivity2_2">Activity 2: Two, 2 , due, deux</string>
+    <string name="instruction3">Click on an activity and then go back</string>
+    <string name="geo_search">Geo Search</string>
+    <string name="browser">Browser</string>
+    <string name="activity3">Activity3</string>
+    <string name="displaysign">Keep out sign</string>
+    <string name="keepout">Keep out!</string>
+    <string name="returnbutton">Return</string>
+    <string name="instruction4">Write something to return</string>
+    <string name="instruction5">Press BACK and never come back!</string>
+</resources>
